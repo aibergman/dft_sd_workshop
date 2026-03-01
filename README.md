@@ -90,6 +90,25 @@ jupyter notebook
 
 Open the main notebook and run **top-to-bottom**.
 
+### 🔗 Launch individual notebooks on Binder
+
+You can open any notebook in this repository directly on Binder using the links below (launched from `aibergman/dft_sd_workshop`, branch `uppasd_notebooks`).
+
+- [UppASD_bccFe_single.ipynb](https://mybinder.org/v2/gh/aibergman/dft_sd_workshop/uppasd_notebooks?urlpath=%2Flab%2Ftree%2FUppASD_bccFe_single.ipynb)
+- [notebook/UppASD_bccFe_single.ipynb](https://mybinder.org/v2/gh/aibergman/dft_sd_workshop/uppasd_notebooks?urlpath=%2Flab%2Ftree%2Fnotebook%2FUppASD_bccFe_single.ipynb)
+- [notebook/UppASD_bccFe.ipynb](https://mybinder.org/v2/gh/aibergman/dft_sd_workshop/uppasd_notebooks?urlpath=%2Flab%2Ftree%2Fnotebook%2FUppASD_bccFe.ipynb)
+- [notebook/UppASD_bccFe_thermo.ipynb](https://mybinder.org/v2/gh/aibergman/dft_sd_workshop/uppasd_notebooks?urlpath=%2Flab%2Ftree%2Fnotebook%2FUppASD_bccFe_thermo.ipynb)
+- [notebook/dft_notebook.ipynb](https://mybinder.org/v2/gh/aibergman/dft_sd_workshop/uppasd_notebooks?urlpath=%2Flab%2Ftree%2Fnotebook%2Fdft_notebook.ipynb)
+- [notebook-uppasd/Skyrmion_Interactive.ipynb](https://mybinder.org/v2/gh/aibergman/dft_sd_workshop/uppasd_notebooks?urlpath=%2Flab%2Ftree%2Fnotebook-uppasd%2FSkyrmion_Interactive.ipynb)
+- [notebook-sd/spin_dynamics_workshop_tutorial.ipynb](https://mybinder.org/v2/gh/aibergman/dft_sd_workshop/uppasd_notebooks?urlpath=%2Flab%2Ftree%2Fnotebook-sd%2Fspin_dynamics_workshop_tutorial.ipynb)
+- [notebook-uppasd/UppASD_bccFe_thermo.ipynb](https://mybinder.org/v2/gh/aibergman/dft_sd_workshop/uppasd_notebooks?urlpath=%2Flab%2Ftree%2Fnotebook-uppasd%2FUppASD_bccFe_thermo.ipynb)
+- [notebook-uppasd/UppASD_bccFe.ipynb](https://mybinder.org/v2/gh/aibergman/dft_sd_workshop/uppasd_notebooks?urlpath=%2Flab%2Ftree%2Fnotebook-uppasd%2FUppASD_bccFe.ipynb)
+- [notebook-dft/dft_notebook.ipynb](https://mybinder.org/v2/gh/aibergman/dft_sd_workshop/uppasd_notebooks?urlpath=%2Flab%2Ftree%2Fnotebook-dft%2Fdft_notebook.ipynb)
+- [notebook-uppasd/J1J2J3_exchange.ipynb](https://mybinder.org/v2/gh/aibergman/dft_sd_workshop/uppasd_notebooks?urlpath=%2Flab%2Ftree%2Fnotebook-uppasd%2FJ1J2J3_exchange.ipynb)
+- [notebook-uppasd/CBPFTutorial.ipynb](https://mybinder.org/v2/gh/aibergman/dft_sd_workshop/uppasd_notebooks?urlpath=%2Flab%2Ftree%2Fnotebook-uppasd%2FCBPFTutorial.ipynb)
+- [notebook-uppasd/Skyrmion_Lattice.ipynb](https://mybinder.org/v2/gh/aibergman/dft_sd_workshop/uppasd_notebooks?urlpath=%2Flab%2Ftree%2Fnotebook-uppasd%2FSkyrmion_Lattice.ipynb)
+
+If you want the links to use a different GitHub repo or branch, tell me the `owner/repo` and `branch` and I will update these links.
 ---
 
 ## 📬 Contact
